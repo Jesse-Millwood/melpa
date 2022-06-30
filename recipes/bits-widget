@@ -1,0 +1,2 @@
+(bits-widget :fetcher github
+             :repo "Jesse-Millwood/bits-widget")
